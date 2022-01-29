@@ -1,1 +1,1 @@
-# Train-me-if-you-can
+# Train me if you can: decentralizedlearning on the deep edge
