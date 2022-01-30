@@ -1,8 +1,8 @@
-# Train me if you can: decentralizedlearning on the deep edge
+# Train me if you can: decentralized learning on the deep edge
 
 This repository contains the code and experiments for the paper:
 
-> Fair Resource Allocation in Federated Learning
+> Train me if you can: decentralized learning on the deep edge
 
 <!-- TABLE OF CONTENTS -->
 <details>
