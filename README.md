@@ -18,8 +18,8 @@ This repository contains the code and experiments for the paper:
 
 ## SGD
 ### MNIST
-|                           |    SGD   |   SGD   |
-|                           | (Python) |   (C)   |
+
+|                           | SGD (Python) |   SGD (C)   |
 |---------------------------|----------|---------|
 |        Accuracy (%)       |   94.76  |  90.65  |
 | Memory footprint (KBytes) |  135.632 | 135.632 |
