@@ -8,9 +8,9 @@ This repository contains the code and experiments for the paper:
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#SGD">Contact</a></li>
-    <li><a href="#L-SGD">Contact</a></li>
-    <li><a href="#STM32F767-ZI">Contact</a></li>
+    <li><a href="#SGD">SGD</a></li>
+    <li><a href="#L-SGD">L-SGD</a></li>
+    <li><a href="#STM32F767-ZI">STM32F767-ZI</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
