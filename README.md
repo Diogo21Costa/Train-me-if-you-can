@@ -17,9 +17,7 @@ This repository contains the code and experiments for the paper:
 
 
 ## SGD
-
-|                           |        MNIST       |
-|---------------------------|----------|---------|
+### MNIST
 |                           |    SGD   |   SGD   |
 |                           | (Python) |   (C)   |
 |---------------------------|----------|---------|
