@@ -19,6 +19,7 @@ This repository contains the code and experiments for the paper:
 ## SGD
 
 |                           |        MNIST       |  Private Dataset  |
+                            |----------------------------------------|
 |                           |    SGD   |   SGD   |    SGD   |   SGD  |
 |                           | (Python) |   (C)   | (Python) |   (C)  |
 |---------------------------|----------|---------|----------|--------|
