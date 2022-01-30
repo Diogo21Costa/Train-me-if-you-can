@@ -27,12 +27,6 @@ This repository contains the code and experiments for the paper:
 
 ### Drowsiness detection dataset
 
-82.20  |  83.51
--------+-------
-6.816  |  6.816
--------+-------
-2.300  | 0.1512
-
 
 |                           | SGD (Python) |   SGD (C)   |
 |---------------------------|----------|---------|
